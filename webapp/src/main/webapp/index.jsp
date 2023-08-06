@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Docker and Jenkins Intergration Message </h1>
+    <h1> Ansible Vs Docker Vs Jenkins Vs DockerHub Integration </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
