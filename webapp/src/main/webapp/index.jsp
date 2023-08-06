@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> DOcker and Jenkins Intergration Message </h1>
+    <h1> Docker and Jenkins Intergration Message </h1>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -13,10 +13,6 @@
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
     
-    <label for="mobile"><b>Enter Qualification</b></label>
-    <input type="text" placeholder="Enter Education Qualification" name="education" id="education" required>
-    <br>
-
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
