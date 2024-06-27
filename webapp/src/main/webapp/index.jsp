@@ -20,15 +20,21 @@
         }
         .skill-list {
             margin-left: 40px;
+            font-size: 1.2em;
         }
         .footer {
             margin-top: 20px;
             text-align: center;
         }
+        .right-image {
+            float: right;
+            margin-left: 20px;
+        }
     </style>
 </head>
 <body>
     <h1 class="center-heading underline">Welcome to the DevOps World</h1>
+    <img src="path_to_your_image.jpg" alt="DevOps Image" class="right-image">
     <div class="left-heading">
         <h2>List of skills for DevOps</h2>
         <ul class="skill-list">
