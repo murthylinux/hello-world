@@ -39,6 +39,7 @@
         <h2>List of skills for DevOps</h2>
         <ul class="skill-list">
             <li>Git</li>
+            <li>GitHub</li>
             <li>Docker</li>
             <li>Terraform</li>
             <li>Jenkins</li>
