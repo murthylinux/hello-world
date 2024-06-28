@@ -41,6 +41,7 @@
             <li>Git</li>
             <li>Docker</li>
             <li>Terraform</li>
+            <li>Jenkins</li>
         </ul>
     </div>
     <div class="footer">
